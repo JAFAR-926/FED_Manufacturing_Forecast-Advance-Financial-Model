@@ -1,3 +1,4 @@
+<img width="1899" height="701" alt="Screenshot 2026-02-25 134706" src="https://github.com/user-attachments/assets/3429f9e8-b0b7-4a6c-b678-644b2916d0e0" />
 
 # FED_Manufacturing_Forecast-Advance-Financial-Model
 A dynamic financial model built for FD Manufacturing Company to forecast revenue, costs, and profitability within a manufacturing environment. The model includes 3-statement projections, break-even analysis, CAPEX planning, and sensitivity analysis, enabling scenario testing and data-driven strategic decision-making
